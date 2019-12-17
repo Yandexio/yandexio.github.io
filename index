@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>hello</title>
+	<style>
+		body
+		{
+			background-color:#FAA42B;
+		}
+		table
+		{
+			width:100%;
+		}
+		.ww
+		{
+			width:80%;
+		}
+		.w
+		{
+			margin-top:3%;
+		}
+	</style>
+</head>
+<body>
+	<img src="photo11.jpg" width=100%>
+	<table border="1">
+		<tr>
+			<td>
+				<div align="right">
+					<button class="ww">1.</button>
+				</div>
+			</td>
+			<td>
+				<div align="center">
+					<button class="ww">2.</button>
+				</div>
+			</td>
+			<td>
+				<div align="left">
+					<button class="ww">3.</button>
+				</div>
+			</td>
+		</tr>
+	</table>
+	<table border="1" class="w">
+		<tr>
+			<td colspan="4">
+				<div align="center">
+					hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+				</div>
+			</td>
+			<td width=20%>
+				<div align="center">
+					<table border="1">
+						<tr>
+							<td>1.</td>
+						</tr>
+						<tr>
+							<td>1.</td>
+						</tr>
+						<tr>
+							<td>1.</td>
+						</tr>
+					</table>
+				</div>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>
